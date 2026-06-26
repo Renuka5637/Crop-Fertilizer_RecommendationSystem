@@ -42,8 +42,3 @@
 
 ---
 
-### 📧 Contact
-
-**Renuka5637** | [GitHub Profile](https://github.com/Renuka5637)
-
----
